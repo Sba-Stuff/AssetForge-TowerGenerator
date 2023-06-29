@@ -9,5 +9,5 @@ It helps You create random heights, flags, and roofs of a tower in asset forge.
 5. In the menu, click Scripts, and open the Lua File you added to the Scripts folder in Step 3.
 6. Hit F5 and Engjoy.
 
-#About
+# About
 Tested in Asset Forge 2.3.0 (Deluxe) Version. Modify the script as you like.
