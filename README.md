@@ -1,7 +1,7 @@
 # AssetForge-TowerGenerator
 It helps You create random heights, flags, and roofs of a tower in asset forge.
 
-#Instructions
+# Instructions
 1. Download Lua Script From Here.
 2. Navigate to your AssetForge Installation Directory and find the "Scripts" folder.
 3. Paste the script you downloaded from Step 1 in the Scripts folder.
